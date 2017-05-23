@@ -1,0 +1,149 @@
+FAQ!
+
+PROGRAM OVERVIEW
+The LIU Game and App Design and Development MFA is a full-time, two-year 48-credit cohort-based studio graduate program designed to prepare students for jobs in, specifically, mobile VR/AR game and app design and development.
+
+WHAT IS THE CURRICULUM LIKE - AND WHAT DOES IT MEAN THAT THE PROGRAM IS "COHORT-BASED"?
+Everyone coming into the program each year - each cohort, comprised of somewhere between 12 and 20 students - takes the same classes together for the full two year duration of the program. This set curriculum consists of three main course sequences:
+
+- The main studio sequence, in which students work in teams designing and developing multiple game/app prototypes. This sequence culminates in a year+-long original thesis project.
+
+- A sequence focused on developing technical expertise with Unreal Engine and ancillary content production/editing tools, and on developing a constructive and respected online presence in those tools' online communities.
+
+- A sequence focused on developing broad game and app literacy, and on analyzing and understanding the design and business considerations - UX best practices, monetization models, and more - specific to mobile VR and AR platforms (the program's focus).
+
+...AH, SO THERE IS A SPECIFIC FOCUS?
+Yes. All projects you work on in the program will use the powerful and popular Unreal Engine and target mobile VR / AR platforms like the Samsung Gear VR and Microsoft's Hololens.
+
+WHY IS MOBILE VR / AR THE FOCUS?
+Because this is where a great number of the best jobs and most exciting creative opportunities in game and app development will be over the coming decade+, both in New York specifically and nation- and world-wide.
+
+IS THERE A FURTHER FOCUS WITHIN THIS PLATFORM FOCUS?
+Yes, with respect to the kind of work you will be doing. You will not be making 3d models, rigging, animating, texturing, making sound effects, or composing music in this program - you will be writing code and text, designing virtual spaces, systems, and mechanics, and pitching, managing, and presenting projects.
+
+I LIKE THE IDEA OF A STRONG AND PRACTICAL FOCUS, BUT I'M NOT SURE WHETHER SPECIFIC FOCUS IS COMPATIBLE WITH MY OWN GAME/APP INTERESTS AND AMBITIONS. ANY SUGGESTIONS?
+Research the options some more - sometimes just a couple more insights or perspectives might be all you need to get clarity. One place to start is the bonus questions section at the bottom of this post.
+
+I AM NOT FAMILIAR WITH UNREAL ENGINE. DO I NEED TO HAVE EXPERIENCE WITH IT, AND/OR WITH PROGRAMMING, BEFORE APPLYING?
+No, you do not need to have any prior programming or Unreal Engine experience. 
+
+You DO need to have a willingness to learn, though, as all students will be expected to complete a large number of individual scripting assignments, as well as to contribute to code on team-based projects.
+
+We will break the process down into small pieces for you and work hard with you to help you develop confidence and competence. By the end of the program, you will have the skill to implement complex interactive behavior from scratch using the Unreal Engine.
+
+WHAT ABOUT GAME OR APP DESIGN, DO I NEED TO HAVE WITH THAT?
+Again, no. The program curriculum does not assume that you are already an experienced game or app designer (or that you have worked with mobile VR/AR, for that matter).
+
+There is a lot of confusion about what design is and what designers do. We will help you understand the difference between design and skinning/cloning, and the difference between design and programming/development. And we will help you develop your design skills through extensive, guided hands-on practice.
+
+SKILLS ARE GREAT, BUT WHAT ACTUAL JOBS WILL THIS PROGRAM PREPARE ME FOR?
+Depending on your background and where you focus your effort while in the program, it will prepare you for a position as a game level / narrative designer, a systems / mechanics designer, a UX / interaction designer, a project manager, and/or a producer. You could also leave prepared to be a game programmer - if you come into the program with a strong computer science background and/or substantial prior professional programming experience in another field.
+
+We encourage you to research what exactly those roles entail, and to reach out to us if you have any questions. During the application process, we may ask you to demonstrate your understanding of the specifics of some or all of these roles. We need to work together to make sure that if you enroll, you will be preparing for a job you actually want to do!
+
+WHAT JOBS WILL IT DEFINITELY *NOT* PREPARE ME FOR?
+The program does not try to and will definitely not prepare you to be a 3D modeler, animator, rigger, texture artist, 2D or concept artist, any kind of game music or game sound effect composer or engineer, or a graphic designer. 
+
+If you are interested in pursuing these careers, take a look at the other programs and courses in our LIU Brooklyn Media Arts department.
+
+HOW LONG WILL THE PROGRAM TAKE?
+Two (academic) years. You must start your studies in the fall and finish the program in a single continuous fall-spring, fall-spring four-semester sequence, together with the rest of your entering class (i.e. your cohort). We will work hard with you to help you make the necessary timely progress, but there will be no exceptions to this requirement.
+
+The fall semester runs from September to December, and the spring semester from January to May. Though there will be no classes in the summer between the first and second year, that time is not intended to be a vacation; students will be expected to spend it working on their thesis projects and/or completing an internship. 
+
+We will help you structure the summer so that you make progress on your thesis, and/or help you find, land, and make the most of relevant, paid internships.
+
+CAN I WORK WHILE IN THE PROGRAM?
+Not full-time. 
+
+Each of the 48 program credits is equivalent to one hour of class time per week, for a semester's worth of weeks. Students take 12 credits worth of classes each semester - the main 6 credit production studio, the 3 credit platform tools lab, and the 3 credit platform literacy seminar. Over four semesters, this multiplies out to 12x4 = 48 credits.
+
+Though scheduled class time is therefore limited to about 12 hours a week, all classes take place during weekday daytime hours, and an additional 6 hour weekday daytime block is set aside for team-based project work. Students will also need to devote 20+ additional hours a week to homework to get full value out of the curriculum and ensure they are employable upon graduation. 
+
+We appreciate that working full-time may feel like a more sensible way to eat and pay rent while studying than taking out additional loans, but, put simply, you will not have enough study time to get your tuition money's worth if you do so. You may save money in the short run, but you lose much more in the long run by compromising your professional career prospects.
+
+SPEAKING OF TUITION, HOW MUCH DOES THE PROGRAM COST?
+At the 2017-2018 rate of $1,201 per graduate credit, the total tuition for the two-year 48-credit program would be $57,648. The actual cost is likely to be somewhat higher, as per-credit rates tend to rise from year to year (for example, the rate was $1,155 in 2015-2016), and the second year's 24 credits would need to be paid for at this updated rate.
+
+A health insurance fee (required for students who don't have their own health insurance) that last stood at a bit under $2,400 a year and a university facilities fee that currently stands at $920 a semester together add a further ~$8,500.
+
+Accounting for the likely cost increases in the second year puts the total at ~$70,000, excluding room, board, equipment/supplies, and living expenses.
+
+More information, including the latest rates, is available here: http://www.liu.edu/Brooklyn/Enrollment-Services/Tuition
+
+...WOW, THAT'S REALLY EXPENSIVE!! IS THERE FINANCIAL AID AVAILABLE?!
+Yes, both in the form of loans (which have to be repaid), and grants and scholarships (which don't, but tend to be smaller and/or harder to come by than loans). To find out more about what kinds and amounts of aid you may be eligible for, and how to apply, check here: http://www.liu.edu/Brooklyn/Enrollment-Services/Financial-Aid
+
+THAT'S SOMETHING I GUESS, BUT I AM STILL VERY CONCERNED ABOUT THE COST. WOULD I BE BETTER OFF EDUCATING MYSELF USING SOME COMBINATION OF FREE ONLINE RESOURCES, OLD-FASHIONED BOOKS, LOWER-COST ONE-OFF CLASSES, AND/OR LOCAL ENTHUSIAST/LEARNER COMMUNITIES?
+Very possibly. You should seriously consider this route, especially if the cost of the program would put you/your family into significant debt. (When thinking about the cost, consider the possibility of receiving grants and/or scholarships, but consider also the lost income from not being able to work full-time while in the program, as well as the cost of living in New York).
+
+Unreal Engine is free and well-documented, and the same goes for the standard version of Unity (the other engine you would want to consider). You can buy a computer capable of VR development, a VR-capable phone, and a mobile VR headset for about $1500-$200 total. There are many free or low cost tutorials, code samples, and assets available online, and many forums full of experienced designers and developers happy to answer your questions. Offline, there are organizations such as Playcrafting which offer high quality and relatively low cost one-off design and development classes (for example, an 8 week introduction to making games using the Unreal Engine for $2000). 
+
+If you choose the self-education route, we recommend participating in game jams like Ludum Dare and the Global Game Jam, keeping the scope of your projects very small (take whatever you think is small and divide by 10), entering design competitions like the ones regularly administered by the Games For Change festival, applying to incubators and festivals, and attending local VR/AR meetups as ways of finding collaborators and staying focused, confident, and motivated.
+
+YOU MENTIONED COST OF LIVING IN NEW YORK. WHAT IS THE HOUSING MARKET LIKE?
+A private room in a shared apartment can be had from $650-$700 plus utilities (likely to run about $50-$75 extra), although finding a good situation at that price will require some luck and effort, and more rooms are in the $800-$1500 range. If you prefer or need to live alone, expect to pay from $1200-$2500 a month for a studio (single room) apartment.
+
+Check websites like Craigslist.org and Roomi to get a better sense of what's available. Lively and safe Brooklyn neighborhoods that are convenient for commuting to the LIU Brooklyn campus by train and/or bus include Bedford Stuyvesant, Crown Heights, Park Slope, Kensington, and Bushwick. 
+
+It can be challening to convince New York landlords to rent to you when you are a student, particulary if you are an international student and/or have no American credit history. To secure a new lease, you will likely need a guarantor - someone whose annual income is equivalent to a large (40-80+) multiple of your monthly rent, and who is willing to legally commit to paying your rent if you are not able to. 
+
+Subletting a room in an apartment with roommates tends to be easier to pull off - all you'll probably need is a couple months' deposit and an ability to tolerate or handle strangers who leave dishes in the sink for days.
+
+WHAT ABOUT OTHER COSTS (FOOD, TRANSPORTATION,...)?
+You'll want an unlimited MetroCard to take full advantage of New York's excellent 24 hour multimodal public transit system; this will set you back ~$120/month, but unless you live within walking distance from campus or have a bike that you aren't afraid to take on city streets, it will be money well spent.
+
+The city's food and culture/entertainment offerings are famously, wonderfully diverse and run from very cheap ($3-$5 takeout lunches and countless free museums, concerts, readings, and other events) to some of the most expensive in the world. It might be trivial to spend a million in an afternoon here, but it's also the best place in America to live if you're very broke and yet still want to eat well, have a fun time, and see a great deal that you can't see anywhere else.
+
+Rent is still too damn high, though (https://en.wikipedia.org/wiki/Rent_Is_Too_Damn_High_Party).
+
+BONUS QUESTION:
+CAN YOU DESCRIBE THE COURSEWORK IN SOME MORE DETAIL?
+Gladly. Here are the course descriptions for the first class in each of the three sequences. Students take these in the fall semester of their first year in the program.
+
+The main production sequence:
+GDP 610 / Functional Gaming / Interactive Media I 
+This class is the first in the Game and App Design and Development MFA program's required four-semester studio production sequence. As such, it is designed to serve as practice and preparation for the sequence's main two-and-a-half-semester capstone project, in which students work in teams to design, develop, market, and promote and original mobile VR / AR game or app. To those ends, students complete multiple test runs through parts of the development pipeline in the form of purposefully constrained and ordered 1-4 week game/app production assignments. They work with different cohort-mates and/or in a different role on each assignment, getting to know each other's strengths and interests and jointly figuring out the most effective team distributions and compositions for the capstone project.
+
+The tools lab sequence:
+GDP 611 / Platform Design Tools I
+In this course, students complete in-class hands-on exercises and weekly individual problem sets to develop technical and scripting proficiency with the Unreal Engine - the powerful, versatile, and popular professional-grade development environment used in the Game and App Design and Development MFA program's production studio classes. Topics covered include understanding and customizing the interface and project and editor settings, sourcing and importing assets, adding functionality through plug-in modules, packaging and distributing projects for specific platforms, creating adding and modifying game actors and static level objects, editing and creating C++ scripts to drive actor and world behavior, working with the Blueprints visual scripting system, and more. Assignments scale to accommodate students' prior familiarity with Unreal / other 3D engines, and their level of programming experience.
+
+And the platform literacy sequence:
+GDP 612 / Gaming Studies/Theory
+A critical play lab designed to develop broad familiarity with the history of digital games and apps, as well as the advanced mobile VR/AR platform literacy necessary to produce the most relevant and innovative work in the Game and App Design and Development MFA program's production studio classes. Students play, discuss, and analyze a large numer of influential games and apps, completing presentation and critical report assigments that develop their verbal and written communication skills and that focus their attention on platform-specific UX, design, and business choices and considerations.  
+
+BONUS QUESTION FOR THOSE FAMILIAR WITH UNITY:
+WHY UNREAL ENGINE AND NOT UNITY?
+Unity may be more popular at the moment, but as Unreal is a more powerful engine with a higher barrier to entry, there are as many or more Unreal jobs per Unreal developer as Unity jobs per Unity developer, and Unreal competence connotes 'professional' more strongly than Unity competence. Source code access is valuable for those with the drive to delve deeper. Finally, C++ is a more marketable language than C#.
+
+There are good reasons to prefer Unity as well, such as better Hololens integration and a somewhat gentler initial learning curve.
+
+We made the choice with the understanding that it's close enough for reasonable people to disagree about - and by that token, too close to be worth spending a lot of time arguing over, especially when that time could instead be spent actually learning one of the engines. Also, we are right :P
+
+BONUS QUESTIONS FOR THOSE WHO AREN'T SURE WHETHER THE PROGRAM'S FOCUS IS COMPATIBLE WITH THEIR INTERESTS:
+
+I AM PRIMARILY/ONLY INTERESTED IN WORKING IN "AAA"/CONSOLE GAME DEVELOPMENT. WOULD THIS PROGRAM BE A GOOD FIT FOR ME?
+If you have done your research and are sure that's what you want, no. 
+
+Make sure you have done that research, though. Use resources like Gamasutra.com and Reddit AMAs to learn as much as you can about the day to day realities of working in AAA. One thing you will likely discover is that almost none of even the senior positions at companies like Naughty Dog, Rockstar, or Blizzard afford the kind of broad creative control over the nature and shape of large projects that often attracts people to the >idea< of working in AAA. 
+
+By contrast, teams in the mobile game and app development industries, while often still sizeable, tend to be smaller, often giving even relatively junior employees an opportunity to have significant creative input.
+
+Think about whether you would prefer to be a small cog in a huge wheel (AAA), or a medium cog in a medium wheel (mobile)*. If you decide on the former, forget this program and look at programs like DigiPen, SCAD, USC, and The Guildhall at SMU instead. If after some research and reflection the latter seems more attractive, give us a closer look.
+
+* Obviously there are breakout exceptions, but the reality is that these are the experiences of the vast majority of the talented, skilled, hard-working and ambitious people on both sides of the fence. Throwing caution to the wind and making your choice planning and intending to be one of those superstar exceptions is very sexy, of course - but before you do that, make sure you understand with visceral power and clarity that the reason such a choice is so sexy is that it is extremely dangerous and foolish; i.e. the risk of emotionally and financially catastrophic disappointment is exceptionally high.
+
+I AM PRIMARILY/ONLY INTERESTED IN BEING AN INDIE/DIY GAME DEVELOPER, AND/OR WORKING AT THE INTERSECTION OF GAMES AND ART. WOULD THIS PROGRAM BE A GOOD FIT FOR ME?
+As with AAA, no.
+
+If you want to be an indie/DIY developer, don't go to grad school - at least not unless you can get a (near-)full scholarship. Instead, simply start making games using the many great free tools aggregated at sites like PixelProspector.com, use game jams like Ludum Dare and the Global Game Jam for networking, constraints, structure, and accountability, enter design competitions like the ones regularly administered by the Games For Change festival, apply to incubators, attend game-related events in person if you live in a city with a game scene (in NY, check out Babycastles and the NYU Game Center, to name just two), put your games up for sale on sites like itch.io to teach yourself about marketing, follow your favorite game devs on Twitter, submit your games to festivals like IndieCade and IGF and try to attend them if you can, and most of all, make sure to have a day job. If you insist on going anyway, consider the NYU Game Center.
+
+If you want to work at the intersection of games and art - perhaps creating large-scale interactive museum installations, or leading workshops at organizations like EYEBEAM - grad school makes more sense, as it can give you the cultural capital and connections that are so valuable in that space. But in our program, all of your studio projects would be team-based, and there's at least as much focus on technical as on conceptual skills. Unless that appeals to you, and/or you are specifically strongly interested in the mobile VR / AR space, look instead at programs like UCLA,  Parsons, or, again, NYU.
+
+I AM INTERESTED IN TEACHING AT THE COLLEGE / GRAD SCHOOL LEVEL. WOULD THIS PROGRAM BE A GOOD FIT FOR ME?
+It might be. Our program awards the Master of Fine Arts degree. The MFA is what is known as a terminal degree - the most advanced degree of its kind - and as such, it will give you the credential you need to teach game design and/or development at the undergraduate or graduate level.
+
+However, the LIU gaMeFA program curriculum does not focus on developing teaching skills, and opportunities to practice teaching during your time here would be limited at best, as there is currently no undergraduate game design program at LIU Brooklyn.
+
+Also, note that no MFA degree, regardless of where you got it, would prepare or credential you to teach game studies / theory (as opposed to design and development). If your interests lie in that direction, consider the many game-related Ph.D. programs instead.  

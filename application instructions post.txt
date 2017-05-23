@@ -1,0 +1,48 @@
+APPLYING TO THE PROGRAM
+Applications are now open for Fall 2017!
+
+Applying is as easy as 1-2-3:
+1, Fill out this basic online application form: http://bit.ly/2rCfpc7. Use code EXPLOREBK to waive the application fee :) 
+2, Contact us using the Send Email button on this page to let us know you've applied and to schedule the required Skype interview.
+3, If you're still interested after you've done the interview, assemble and submit the standard documents  (undegraduate transcripts*, letters of reccomendation, personal statement,...) according to the instructions at http://www.liu.edu/Brooklyn/Admissions/Application-Instructions. You'll also need to send us a creative portfolio.
+
+* Since the LIU gaMeFA is a graduate program, you'll need an undergraduate degree (BA/BS/BFA or equivalent) to enroll.
+
+IS THERE ANYTHING I SHOULD DO BEFORE I APPLY?
+Three things:
+
+1, Read the program details post: [INSERT POST LINK HERE]. 
+
+2, Download and play around with Unreal Engine, our development tool of choice. Don't worry if it feels overwhelming or intimidating right now. The program will take you from beginner to professional-level user.
+
+3, Research the mobile VR/AR game and app industries. Ways to do this include exploring the exhibitor lists of conferences like the VRDC (Virtual Reality Developers Conference), attending VR/AR meetups in your area, and reading about industry news and trends on sites like UploadVR and Augmented.Reality.News.
+
+I'M ON THE FENCE ABOUT APPLYING. WHAT SHOULD I DO?
+Go ahead and apply :) It's free and quick to fill out the basic application, and you can use the required Skype interview to get a better sense of whether the program would be a good fit for you before investing time and energy into putting together the rest of the materials. We'll be glad to have a chance to meet you regardless of whether you decide to follow through on the rest of the application.
+
+CAN YOU HELP ME FILL OUT THE BASIC ONLINE APPLICATION FORM?
+* If you are not able to access the application form directly using http://bit.ly/2rCfpc7, go to the LIU Brooklyn Admissions page at http://www.liu.edu/Brooklyn/Admissions and click the Apply Now button.
+* Select Brooklyn in the "Interested Campus" dropdown, if not already selected.
+* Select Graduate in the "I'll be entering as" dropdown.
+* Select a Fall semester in the "I'll be starting my studies" dropdown. Our highly structured, cohort-based curriculum requires that everyone entering the program in a given year must start together, in the fall. 
+* In the "Intended Major" dropdown, select "Game/App Design & Devel MFA".
+* After filling out the rest of the form, enter EXPLOREBK in the Waiver Code field and click the Apply Code button to waive the application fee.
+* Click Submit. You should be redirected to a page that confirms successful submission and lets you know to expect a confirmation email at the address you provided.
+* Make sure to email us using the Send Email button on this page to schedule the required Skype interview!
+
+ANY TIPS ON PREPARING FOR THE INTERVIEW?
+The interview will be a loosely structured, informal conversation that is as much about giving you a chance to interview us as vice versa. You'll get more out of the conversation if you spend some time beforehand thinking about what you would like to ask us. Write down at least three or four of your biggest questions ahead of time so you don't forget to ask them in the heat of the moment. And, probably a good idea to make sure they are not already answered on this website.....
+
+WHOM SHOULD I ASK FOR RECOMMENDATIONS?
+If you are still in college or have only recently graduated, good people to ask might be professors, coaches, internship supervisors, teaching assistants, or perhaps classmates who have collaborated with you on a large project.
+
+Otherwise, recommendations from your bosses or colleagues are good. A collaborator from a large personal creative project can be a good choice as well.
+
+In both cases, we would much rather see a recommendation from someone who knows you personally and can speak in specific detail about your strengths and weaknesses than a generic stamp of approval letter from a "name".
+
+WHAT SHOULD MY CREATIVE PORTFOLIO CONSIST OF?
+The first element is a single file, 100mb or smaller in size, the format and contents of which are up to you.
+
+There is also an assigned element, the precise nature of which will depend on your background and interests. We'll figure out what makes sense during the interview, after which you'll have a week or two to put this element together. 
+
+Possibilities include a small map for an existing 3d game, a branching dialog scene, a production plan document, draft wireframes for an original app concept, and/or pseudocode implementing a specific gameplay system or mechanic.
